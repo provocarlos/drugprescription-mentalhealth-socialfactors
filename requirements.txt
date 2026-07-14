@@ -1,0 +1,13 @@
+requests
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+scipy
+statsmodels
+openpyxl
+plotly
+jupyterlab
+ipywidgets
+kaleido
